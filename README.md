@@ -24,3 +24,6 @@ A social robot for elderly Care with focus on:
 Hackathon Objective [link](https://youtu.be/_9YriSSMhy8)
 
 Demo Video [link](https://youtu.be/Cpv7ZF2kiQ4)
+
+## BB Team
+![Team](https://goo.gl/photos/rJ2ZzC9DWty6qNWJ9)
